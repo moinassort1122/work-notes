@@ -6,3 +6,4 @@
 - 2025-10-28 16:47 — Adjust spacing in the layout
 - 2025-10-28 18:27 — Update project notes
 - 2025-10-29 10:22 — Adjust the mobile spacing
+- 2025-10-29 15:19 — Align card padding
