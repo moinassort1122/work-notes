@@ -9,3 +9,4 @@
 - 2025-10-29 15:19 — Align card padding
 - 2025-10-29 18:27 — Refine the main screen copy
 - 2025-10-30 10:26 — Fix a small layout overlap
+- 2025-10-30 13:59 — Simplify the header wording
