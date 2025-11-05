@@ -16,3 +16,4 @@
 - 2025-11-03 19:04 — Note today's progress
 - 2025-11-03 21:15 — Record a follow-up in the notes
 - 2025-11-04 17:19 — Clarify form helper text
+- 2025-11-05 11:29 — Update project notes
