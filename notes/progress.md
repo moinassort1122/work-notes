@@ -18,3 +18,4 @@
 - 2025-11-04 17:19 — Clarify form helper text
 - 2025-11-05 11:29 — Update project notes
 - 2025-11-11 10:44 — Align card padding
+- 2025-11-11 11:49 — Update the status labels
