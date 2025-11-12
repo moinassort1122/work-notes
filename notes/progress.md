@@ -20,3 +20,4 @@
 - 2025-11-11 10:44 — Align card padding
 - 2025-11-11 11:49 — Update the status labels
 - 2025-11-11 19:40 — Fix a small layout overlap
+- 2025-11-12 21:37 — Adjust the mobile spacing
