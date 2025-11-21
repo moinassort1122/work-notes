@@ -24,3 +24,4 @@
 - 2025-11-13 18:26 — Note today's progress
 - 2025-11-14 10:54 — Fix a small layout overlap
 - 2025-11-18 14:33 — Improve loading state copy
+- 2025-11-21 13:42 — Record a follow-up in the notes
