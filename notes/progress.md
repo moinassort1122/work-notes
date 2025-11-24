@@ -26,3 +26,4 @@
 - 2025-11-18 14:33 — Improve loading state copy
 - 2025-11-21 13:42 — Record a follow-up in the notes
 - 2025-11-21 17:21 — Clean up unused styles
+- 2025-11-24 10:15 — Update the status labels
