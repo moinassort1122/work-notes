@@ -29,3 +29,4 @@
 - 2025-11-24 10:15 — Update the status labels
 - 2025-11-24 11:13 — Refine the main screen copy
 - 2025-11-24 14:31 — Record a follow-up in the notes
+- 2025-11-25 09:45 — Clarify the error text
