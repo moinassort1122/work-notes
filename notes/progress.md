@@ -31,3 +31,4 @@
 - 2025-11-24 14:31 — Record a follow-up in the notes
 - 2025-11-25 09:45 — Clarify the error text
 - 2025-11-25 11:02 — Tidy list empty states
+- 2025-11-25 14:16 — Tighten validation messages
