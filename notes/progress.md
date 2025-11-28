@@ -38,3 +38,4 @@
 - 2025-11-26 16:24 — Clarify form helper text
 - 2025-11-27 16:00 — Tidy list empty states
 - 2025-11-27 19:34 — Align card padding
+- 2025-11-28 16:23 — Clarify form helper text
