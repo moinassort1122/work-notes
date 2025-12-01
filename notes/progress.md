@@ -39,3 +39,4 @@
 - 2025-11-27 16:00 — Tidy list empty states
 - 2025-11-27 19:34 — Align card padding
 - 2025-11-28 16:23 — Clarify form helper text
+- 2025-12-01 16:58 — Adjust spacing in the layout
