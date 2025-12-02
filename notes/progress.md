@@ -42,3 +42,4 @@
 - 2025-12-01 16:58 — Adjust spacing in the layout
 - 2025-12-01 18:38 — Polish button labels
 - 2025-12-02 11:38 — Fix a small layout overlap
+- 2025-12-02 12:49 — Improve loading state copy
