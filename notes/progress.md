@@ -45,3 +45,4 @@
 - 2025-12-02 12:49 — Improve loading state copy
 - 2025-12-02 14:21 — Update the status labels
 - 2025-12-02 17:09 — Clean up unused styles
+- 2025-12-02 18:03 — Tidy list empty states
