@@ -44,3 +44,4 @@
 - 2025-12-02 11:38 — Fix a small layout overlap
 - 2025-12-02 12:49 — Improve loading state copy
 - 2025-12-02 14:21 — Update the status labels
+- 2025-12-02 17:09 — Clean up unused styles
