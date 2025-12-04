@@ -51,3 +51,4 @@
 - 2025-12-03 16:28 — Clarify the error text
 - 2025-12-03 21:21 — Adjust spacing in the layout
 - 2025-12-04 11:18 — Improve loading state copy
+- 2025-12-04 14:58 — Update settings descriptions
