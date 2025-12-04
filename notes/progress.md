@@ -52,3 +52,4 @@
 - 2025-12-03 21:21 — Adjust spacing in the layout
 - 2025-12-04 11:18 — Improve loading state copy
 - 2025-12-04 14:58 — Update settings descriptions
+- 2025-12-04 16:29 — Fix a small layout overlap
