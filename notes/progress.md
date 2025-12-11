@@ -55,3 +55,4 @@
 - 2025-12-04 16:29 — Fix a small layout overlap
 - 2025-12-04 18:14 — Simplify the header wording
 - 2025-12-11 13:39 — Refresh the dashboard notes
+- 2025-12-11 15:27 — Polish button labels
