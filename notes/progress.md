@@ -57,3 +57,4 @@
 - 2025-12-11 13:39 — Refresh the dashboard notes
 - 2025-12-11 15:27 — Polish button labels
 - 2025-12-11 17:19 — Clarify form helper text
+- 2025-12-17 12:41 — Adjust the mobile spacing
