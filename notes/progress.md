@@ -59,3 +59,4 @@
 - 2025-12-11 17:19 — Clarify form helper text
 - 2025-12-17 12:41 — Adjust the mobile spacing
 - 2025-12-17 14:56 — Tighten validation messages
+- 2025-12-17 18:54 — Refine the main screen copy
