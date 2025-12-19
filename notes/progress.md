@@ -63,3 +63,4 @@
 - 2025-12-18 13:46 — Adjust the mobile spacing
 - 2025-12-18 17:01 — Align card padding
 - 2025-12-19 11:01 — Clarify form helper text
+- 2025-12-19 15:07 — Fix a small layout overlap
