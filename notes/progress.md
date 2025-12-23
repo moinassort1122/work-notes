@@ -67,3 +67,4 @@
 - 2025-12-22 15:00 — Update settings descriptions
 - 2025-12-22 17:32 — Adjust spacing in the layout
 - 2025-12-23 09:22 — Note today's progress
+- 2025-12-23 17:43 — Tidy list empty states
