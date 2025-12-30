@@ -69,3 +69,4 @@
 - 2025-12-23 09:22 — Note today's progress
 - 2025-12-23 17:43 — Tidy list empty states
 - 2025-12-30 13:45 — Update project notes
+- 2025-12-30 15:01 — Simplify the header wording
