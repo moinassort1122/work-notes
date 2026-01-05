@@ -73,3 +73,4 @@
 - 2025-12-30 17:48 — Fix a small layout overlap
 - 2026-01-01 11:17 — Adjust spacing in the layout
 - 2026-01-01 18:05 — Review the latest screen changes
+- 2026-01-05 17:20 — Clarify the error text
