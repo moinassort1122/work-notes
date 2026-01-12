@@ -75,3 +75,4 @@
 - 2026-01-01 18:05 — Review the latest screen changes
 - 2026-01-05 17:20 — Clarify the error text
 - 2026-01-08 11:55 — Update settings descriptions
+- 2026-01-12 14:07 — Adjust spacing in the layout
