@@ -77,3 +77,4 @@
 - 2026-01-08 11:55 — Update settings descriptions
 - 2026-01-12 14:07 — Adjust spacing in the layout
 - 2026-01-13 12:21 — Record a follow-up in the notes
+- 2026-01-14 17:47 — Clarify the error text
