@@ -82,3 +82,4 @@
 - 2026-01-15 20:15 — Clarify the error text
 - 2026-01-16 11:10 — Update project notes
 - 2026-01-16 16:23 — Clarify form helper text
+- 2026-01-19 11:30 — Update the status labels
