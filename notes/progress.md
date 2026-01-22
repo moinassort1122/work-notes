@@ -87,3 +87,4 @@
 - 2026-01-20 10:25 — Refine the main screen copy
 - 2026-01-20 19:15 — Adjust the mobile spacing
 - 2026-01-22 10:10 — Simplify the header wording
+- 2026-01-22 14:40 — Align card padding
