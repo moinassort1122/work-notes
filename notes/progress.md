@@ -90,3 +90,4 @@
 - 2026-01-22 14:40 — Align card padding
 - 2026-01-22 19:04 — Polish button labels
 - 2026-01-28 10:24 — Adjust the mobile spacing
+- 2026-01-28 19:16 — Improve loading state copy
