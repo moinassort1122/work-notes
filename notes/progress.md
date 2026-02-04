@@ -96,3 +96,4 @@
 - 2026-02-04 11:22 — Update project notes
 - 2026-02-04 14:36 — Simplify the header wording
 - 2026-02-04 15:33 — Refine the main screen copy
+- 2026-02-04 16:36 — Adjust the mobile spacing
