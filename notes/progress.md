@@ -93,3 +93,4 @@
 - 2026-01-28 19:16 — Improve loading state copy
 - 2026-02-02 13:57 — Clean up unused styles
 - 2026-02-03 10:57 — Update the status labels
+- 2026-02-04 11:22 — Update project notes
