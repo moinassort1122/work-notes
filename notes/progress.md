@@ -100,3 +100,4 @@
 - 2026-02-07 16:43 — Refine the main screen copy
 - 2026-02-10 10:32 — Align card padding
 - 2026-02-10 19:53 — Review the latest screen changes
+- 2026-02-13 09:28 — Polish button labels
