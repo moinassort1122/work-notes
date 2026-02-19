@@ -106,3 +106,4 @@
 - 2026-02-16 11:42 — Tidy list empty states
 - 2026-02-16 14:44 — Adjust spacing in the layout
 - 2026-02-18 18:57 — Tighten validation messages
+- 2026-02-19 10:33 — Clarify the error text
