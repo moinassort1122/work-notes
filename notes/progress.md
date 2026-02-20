@@ -108,3 +108,4 @@
 - 2026-02-18 18:57 — Tighten validation messages
 - 2026-02-19 10:33 — Clarify the error text
 - 2026-02-19 19:31 — Polish button labels
+- 2026-02-20 11:54 — Adjust the mobile spacing
