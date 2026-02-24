@@ -111,3 +111,4 @@
 - 2026-02-20 11:54 — Adjust the mobile spacing
 - 2026-02-23 16:06 — Record a follow-up in the notes
 - 2026-02-24 09:36 — Align card padding
+- 2026-02-24 11:51 — Tighten validation messages
