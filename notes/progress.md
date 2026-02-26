@@ -113,3 +113,4 @@
 - 2026-02-24 09:36 — Align card padding
 - 2026-02-24 11:51 — Tighten validation messages
 - 2026-02-24 18:55 — Tidy list empty states
+- 2026-02-26 15:07 — Clarify form helper text
