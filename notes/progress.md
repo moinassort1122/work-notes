@@ -115,3 +115,4 @@
 - 2026-02-24 18:55 — Tidy list empty states
 - 2026-02-26 15:07 — Clarify form helper text
 - 2026-02-26 20:18 — Refine the main screen copy
+- 2026-03-02 10:39 — Clean up unused styles
