@@ -123,3 +123,4 @@
 - 2026-03-04 18:10 — Update project notes
 - 2026-03-05 09:48 — Refine the main screen copy
 - 2026-03-05 15:36 — Align card padding
+- 2026-03-06 15:03 — Tighten validation messages
