@@ -126,3 +126,4 @@
 - 2026-03-06 15:03 — Tighten validation messages
 - 2026-03-06 19:27 — Simplify the header wording
 - 2026-03-09 10:13 — Adjust the mobile spacing
+- 2026-03-09 13:56 — Adjust spacing in the layout
