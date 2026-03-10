@@ -129,3 +129,4 @@
 - 2026-03-09 13:56 — Adjust spacing in the layout
 - 2026-03-09 17:32 — Tighten validation messages
 - 2026-03-10 10:12 — Refresh the dashboard notes
+- 2026-03-10 16:38 — Update settings descriptions
