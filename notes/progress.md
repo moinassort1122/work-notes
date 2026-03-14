@@ -136,3 +136,4 @@
 - 2026-03-11 20:16 — Clean up unused styles
 - 2026-03-12 19:49 — Adjust spacing in the layout
 - 2026-03-13 11:17 — Update the status labels
+- 2026-03-14 17:16 — Adjust the mobile spacing
