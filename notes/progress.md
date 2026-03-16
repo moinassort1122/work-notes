@@ -137,3 +137,4 @@
 - 2026-03-12 19:49 — Adjust spacing in the layout
 - 2026-03-13 11:17 — Update the status labels
 - 2026-03-14 17:16 — Adjust the mobile spacing
+- 2026-03-16 09:33 — Clarify form helper text
