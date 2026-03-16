@@ -138,3 +138,4 @@
 - 2026-03-13 11:17 — Update the status labels
 - 2026-03-14 17:16 — Adjust the mobile spacing
 - 2026-03-16 09:33 — Clarify form helper text
+- 2026-03-16 11:08 — Clarify the error text
