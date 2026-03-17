@@ -142,3 +142,4 @@
 - 2026-03-16 14:28 — Fix a small layout overlap
 - 2026-03-17 09:25 — Refresh the dashboard notes
 - 2026-03-17 11:47 — Clarify form helper text
+- 2026-03-17 14:16 — Record a follow-up in the notes
