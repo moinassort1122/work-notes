@@ -145,3 +145,4 @@
 - 2026-03-17 14:16 — Record a follow-up in the notes
 - 2026-03-17 19:10 — Refine the main screen copy
 - 2026-03-19 10:43 — Review the latest screen changes
+- 2026-03-19 16:12 — Polish button labels
