@@ -150,3 +150,4 @@
 - 2026-03-25 09:14 — Adjust spacing in the layout
 - 2026-03-25 10:16 — Simplify the header wording
 - 2026-03-25 11:16 — Review the latest screen changes
+- 2026-03-25 18:39 — Fix a small layout overlap
