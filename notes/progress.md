@@ -147,3 +147,4 @@
 - 2026-03-19 10:43 — Review the latest screen changes
 - 2026-03-19 16:12 — Polish button labels
 - 2026-03-24 14:49 — Improve loading state copy
+- 2026-03-25 09:14 — Adjust spacing in the layout
