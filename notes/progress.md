@@ -151,3 +151,4 @@
 - 2026-03-25 10:16 — Simplify the header wording
 - 2026-03-25 11:16 — Review the latest screen changes
 - 2026-03-25 18:39 — Fix a small layout overlap
+- 2026-03-26 10:03 — Clarify the error text
