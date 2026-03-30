@@ -155,3 +155,4 @@
 - 2026-03-26 14:50 — Note today's progress
 - 2026-03-26 18:14 — Record a follow-up in the notes
 - 2026-03-30 11:16 — Refresh the dashboard notes
+- 2026-03-30 14:01 — Clean up unused styles
