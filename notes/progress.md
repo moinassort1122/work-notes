@@ -163,3 +163,4 @@
 - 2026-03-31 14:41 — Review the latest screen changes
 - 2026-04-01 09:13 — Simplify the header wording
 - 2026-04-01 10:10 — Refresh the dashboard notes
+- 2026-04-01 16:18 — Clarify the error text
