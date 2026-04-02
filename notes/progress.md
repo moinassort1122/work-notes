@@ -164,3 +164,4 @@
 - 2026-04-01 09:13 — Simplify the header wording
 - 2026-04-01 10:10 — Refresh the dashboard notes
 - 2026-04-01 16:18 — Clarify the error text
+- 2026-04-02 13:10 — Fix a small layout overlap
