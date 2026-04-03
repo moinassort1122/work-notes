@@ -167,3 +167,4 @@
 - 2026-04-02 13:10 — Fix a small layout overlap
 - 2026-04-02 14:39 — Review the latest screen changes
 - 2026-04-02 16:26 — Simplify the header wording
+- 2026-04-03 17:41 — Note today's progress
