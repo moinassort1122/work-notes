@@ -168,3 +168,4 @@
 - 2026-04-02 14:39 — Review the latest screen changes
 - 2026-04-02 16:26 — Simplify the header wording
 - 2026-04-03 17:41 — Note today's progress
+- 2026-04-06 17:47 — Adjust the mobile spacing
