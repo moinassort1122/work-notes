@@ -169,3 +169,4 @@
 - 2026-04-02 16:26 — Simplify the header wording
 - 2026-04-03 17:41 — Note today's progress
 - 2026-04-06 17:47 — Adjust the mobile spacing
+- 2026-04-07 11:40 — Update the status labels
