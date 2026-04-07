@@ -173,3 +173,4 @@
 - 2026-04-07 13:34 — Improve loading state copy
 - 2026-04-07 15:25 — Tidy list empty states
 - 2026-04-07 16:28 — Refine the main screen copy
+- 2026-04-07 20:07 — Align card padding
