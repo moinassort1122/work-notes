@@ -172,3 +172,4 @@
 - 2026-04-07 11:40 — Update the status labels
 - 2026-04-07 13:34 — Improve loading state copy
 - 2026-04-07 15:25 — Tidy list empty states
+- 2026-04-07 16:28 — Refine the main screen copy
