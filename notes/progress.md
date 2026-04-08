@@ -175,3 +175,4 @@
 - 2026-04-07 16:28 — Refine the main screen copy
 - 2026-04-07 20:07 — Align card padding
 - 2026-04-08 10:24 — Tighten validation messages
+- 2026-04-08 11:46 — Refresh the dashboard notes
