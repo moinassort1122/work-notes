@@ -177,3 +177,4 @@
 - 2026-04-08 10:24 — Tighten validation messages
 - 2026-04-08 11:46 — Refresh the dashboard notes
 - 2026-04-08 14:19 — Review the latest screen changes
+- 2026-04-08 17:04 — Tidy list empty states
