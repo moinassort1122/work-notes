@@ -180,3 +180,4 @@
 - 2026-04-08 17:04 — Tidy list empty states
 - 2026-04-09 10:45 — Refine the main screen copy
 - 2026-04-09 14:35 — Refresh the dashboard notes
+- 2026-04-09 15:48 — Update the status labels
