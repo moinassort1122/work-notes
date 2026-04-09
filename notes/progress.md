@@ -182,3 +182,4 @@
 - 2026-04-09 14:35 — Refresh the dashboard notes
 - 2026-04-09 15:48 — Update the status labels
 - 2026-04-09 17:00 — Review the latest screen changes
+- 2026-04-09 20:08 — Clarify form helper text
