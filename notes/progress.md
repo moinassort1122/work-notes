@@ -184,3 +184,4 @@
 - 2026-04-09 17:00 — Review the latest screen changes
 - 2026-04-09 20:08 — Clarify form helper text
 - 2026-04-09 22:06 — Update settings descriptions
+- 2026-04-13 10:15 — Update settings descriptions
