@@ -186,3 +186,4 @@
 - 2026-04-09 22:06 — Update settings descriptions
 - 2026-04-13 10:15 — Update settings descriptions
 - 2026-04-15 10:16 — Note today's progress
+- 2026-04-15 15:37 — Clean up unused styles
