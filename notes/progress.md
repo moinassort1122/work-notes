@@ -189,3 +189,4 @@
 - 2026-04-15 15:37 — Clean up unused styles
 - 2026-04-16 09:38 — Record a follow-up in the notes
 - 2026-04-16 14:40 — Align card padding
+- 2026-04-16 17:16 — Adjust the mobile spacing
