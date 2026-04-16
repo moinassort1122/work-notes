@@ -188,3 +188,4 @@
 - 2026-04-15 10:16 — Note today's progress
 - 2026-04-15 15:37 — Clean up unused styles
 - 2026-04-16 09:38 — Record a follow-up in the notes
+- 2026-04-16 14:40 — Align card padding
