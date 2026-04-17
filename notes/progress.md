@@ -192,3 +192,4 @@
 - 2026-04-16 17:16 — Adjust the mobile spacing
 - 2026-04-16 18:48 — Update project notes
 - 2026-04-17 09:57 — Record a follow-up in the notes
+- 2026-04-17 11:46 — Adjust spacing in the layout
