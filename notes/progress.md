@@ -197,3 +197,4 @@
 - 2026-04-21 11:44 — Simplify the header wording
 - 2026-04-21 14:06 — Record a follow-up in the notes
 - 2026-04-21 19:37 — Tidy list empty states
+- 2026-04-22 10:11 — Adjust the mobile spacing
