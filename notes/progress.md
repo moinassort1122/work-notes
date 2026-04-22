@@ -198,3 +198,4 @@
 - 2026-04-21 14:06 — Record a follow-up in the notes
 - 2026-04-21 19:37 — Tidy list empty states
 - 2026-04-22 10:11 — Adjust the mobile spacing
+- 2026-04-22 11:10 — Review the latest screen changes
