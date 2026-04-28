@@ -203,3 +203,4 @@
 - 2026-04-23 13:43 — Adjust the mobile spacing
 - 2026-04-24 12:12 — Clean up unused styles
 - 2026-04-24 21:17 — Tighten validation messages
+- 2026-04-28 14:26 — Update settings descriptions
