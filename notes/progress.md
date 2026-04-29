@@ -205,3 +205,4 @@
 - 2026-04-24 21:17 — Tighten validation messages
 - 2026-04-28 14:26 — Update settings descriptions
 - 2026-04-29 09:24 — Refresh the dashboard notes
+- 2026-04-29 11:51 — Align card padding
