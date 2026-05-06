@@ -212,3 +212,4 @@
 - 2026-05-05 14:14 — Improve loading state copy
 - 2026-05-06 09:27 — Refresh the dashboard notes
 - 2026-05-06 10:38 — Adjust spacing in the layout
+- 2026-05-06 15:38 — Tidy list empty states
