@@ -213,3 +213,4 @@
 - 2026-05-06 09:27 — Refresh the dashboard notes
 - 2026-05-06 10:38 — Adjust spacing in the layout
 - 2026-05-06 15:38 — Tidy list empty states
+- 2026-05-07 09:35 — Update settings descriptions
