@@ -214,3 +214,4 @@
 - 2026-05-06 10:38 — Adjust spacing in the layout
 - 2026-05-06 15:38 — Tidy list empty states
 - 2026-05-07 09:35 — Update settings descriptions
+- 2026-05-12 13:38 — Clean up unused styles
