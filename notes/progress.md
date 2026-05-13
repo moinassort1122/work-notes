@@ -216,3 +216,4 @@
 - 2026-05-07 09:35 — Update settings descriptions
 - 2026-05-12 13:38 — Clean up unused styles
 - 2026-05-13 09:27 — Note today's progress
+- 2026-05-13 14:44 — Clarify the error text
