@@ -219,3 +219,4 @@
 - 2026-05-13 14:44 — Clarify the error text
 - 2026-05-13 17:20 — Record a follow-up in the notes
 - 2026-05-14 09:29 — Fix a small layout overlap
+- 2026-05-14 10:42 — Improve loading state copy
