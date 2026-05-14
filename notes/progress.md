@@ -218,3 +218,4 @@
 - 2026-05-13 09:27 — Note today's progress
 - 2026-05-13 14:44 — Clarify the error text
 - 2026-05-13 17:20 — Record a follow-up in the notes
+- 2026-05-14 09:29 — Fix a small layout overlap
