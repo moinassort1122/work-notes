@@ -221,3 +221,4 @@
 - 2026-05-14 09:29 — Fix a small layout overlap
 - 2026-05-14 10:42 — Improve loading state copy
 - 2026-05-15 11:15 — Align card padding
+- 2026-05-15 14:50 — Update the status labels
