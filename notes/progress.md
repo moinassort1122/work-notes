@@ -223,3 +223,4 @@
 - 2026-05-15 11:15 — Align card padding
 - 2026-05-15 14:50 — Update the status labels
 - 2026-05-20 14:34 — Simplify the header wording
+- 2026-05-20 16:15 — Clarify the error text
