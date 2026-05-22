@@ -226,3 +226,4 @@
 - 2026-05-20 16:15 — Clarify the error text
 - 2026-05-21 16:17 — Clarify form helper text
 - 2026-05-22 09:52 — Update settings descriptions
+- 2026-05-22 11:29 — Improve loading state copy
