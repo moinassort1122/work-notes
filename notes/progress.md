@@ -229,3 +229,4 @@
 - 2026-05-22 11:29 — Improve loading state copy
 - 2026-05-25 13:40 — Clean up unused styles
 - 2026-05-25 16:25 — Update project notes
+- 2026-06-03 11:18 — Fix a small layout overlap
