@@ -231,3 +231,4 @@
 - 2026-05-25 16:25 — Update project notes
 - 2026-06-03 11:18 — Fix a small layout overlap
 - 2026-06-04 09:49 — Simplify the header wording
+- 2026-06-04 11:46 — Update project notes
