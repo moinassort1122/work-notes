@@ -234,3 +234,4 @@
 - 2026-06-04 11:46 — Update project notes
 - 2026-06-04 12:39 — Record a follow-up in the notes
 - 2026-06-04 20:03 — Review the latest screen changes
+- 2026-06-04 21:10 — Clarify form helper text
