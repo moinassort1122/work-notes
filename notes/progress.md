@@ -233,3 +233,4 @@
 - 2026-06-04 09:49 — Simplify the header wording
 - 2026-06-04 11:46 — Update project notes
 - 2026-06-04 12:39 — Record a follow-up in the notes
+- 2026-06-04 20:03 — Review the latest screen changes
