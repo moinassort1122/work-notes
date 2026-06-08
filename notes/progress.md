@@ -236,3 +236,4 @@
 - 2026-06-04 20:03 — Review the latest screen changes
 - 2026-06-04 21:10 — Clarify form helper text
 - 2026-06-08 15:15 — Adjust spacing in the layout
+- 2026-06-08 20:58 — Tighten validation messages
