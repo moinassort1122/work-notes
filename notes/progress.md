@@ -239,3 +239,4 @@
 - 2026-06-08 20:58 — Tighten validation messages
 - 2026-06-09 17:06 — Update project notes
 - 2026-06-11 11:43 — Tighten validation messages
+- 2026-06-11 14:55 — Clarify the error text
