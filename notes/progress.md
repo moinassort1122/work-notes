@@ -241,3 +241,4 @@
 - 2026-06-11 11:43 — Tighten validation messages
 - 2026-06-11 14:55 — Clarify the error text
 - 2026-06-12 10:43 — Improve loading state copy
+- 2026-06-16 09:13 — Improve loading state copy
