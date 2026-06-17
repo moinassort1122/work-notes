@@ -244,3 +244,4 @@
 - 2026-06-16 09:13 — Improve loading state copy
 - 2026-06-16 12:36 — Update project notes
 - 2026-06-17 10:43 — Polish button labels
+- 2026-06-17 15:09 — Fix a small layout overlap
