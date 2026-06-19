@@ -249,3 +249,4 @@
 - 2026-06-17 19:24 — Record a follow-up in the notes
 - 2026-06-18 11:51 — Tighten validation messages
 - 2026-06-19 14:26 — Clarify form helper text
+- 2026-06-19 17:39 — Record a follow-up in the notes
