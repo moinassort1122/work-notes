@@ -248,3 +248,4 @@
 - 2026-06-17 16:12 — Refresh the dashboard notes
 - 2026-06-17 19:24 — Record a follow-up in the notes
 - 2026-06-18 11:51 — Tighten validation messages
+- 2026-06-19 14:26 — Clarify form helper text
