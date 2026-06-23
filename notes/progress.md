@@ -251,3 +251,4 @@
 - 2026-06-19 14:26 — Clarify form helper text
 - 2026-06-19 17:39 — Record a follow-up in the notes
 - 2026-06-23 09:19 — Tidy list empty states
+- 2026-06-23 16:07 — Update the status labels
