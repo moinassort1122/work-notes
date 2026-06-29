@@ -256,3 +256,4 @@
 - 2026-06-23 18:56 — Review the latest screen changes
 - 2026-06-26 09:43 — Refine the main screen copy
 - 2026-06-26 20:08 — Review the latest screen changes
+- 2026-06-29 17:33 — Clarify form helper text
