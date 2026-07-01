@@ -258,3 +258,4 @@
 - 2026-06-26 20:08 — Review the latest screen changes
 - 2026-06-29 17:33 — Clarify form helper text
 - 2026-06-30 19:04 — Align card padding
+- 2026-07-01 09:46 — Record a follow-up in the notes
