@@ -259,3 +259,4 @@
 - 2026-06-29 17:33 — Clarify form helper text
 - 2026-06-30 19:04 — Align card padding
 - 2026-07-01 09:46 — Record a follow-up in the notes
+- 2026-07-01 20:14 — Improve loading state copy
