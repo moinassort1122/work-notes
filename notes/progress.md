@@ -263,3 +263,4 @@
 - 2026-07-03 11:58 — Update the status labels
 - 2026-07-13 14:36 — Update project notes
 - 2026-07-13 16:36 — Clean up unused styles
+- 2026-07-13 19:56 — Improve loading state copy
