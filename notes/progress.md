@@ -266,3 +266,4 @@
 - 2026-07-13 19:56 — Improve loading state copy
 - 2026-07-14 11:43 — Refresh the dashboard notes
 - 2026-07-14 16:59 — Update the status labels
+- 2026-07-16 11:57 — Align card padding
