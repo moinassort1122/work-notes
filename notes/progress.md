@@ -268,3 +268,4 @@
 - 2026-07-14 16:59 — Update the status labels
 - 2026-07-16 11:57 — Align card padding
 - 2026-07-17 09:56 — Fix a small layout overlap
+- 2026-07-17 13:07 — Simplify the header wording
