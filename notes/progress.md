@@ -270,3 +270,4 @@
 - 2026-07-17 09:56 — Fix a small layout overlap
 - 2026-07-17 13:07 — Simplify the header wording
 - 2026-07-20 14:08 — Review the latest screen changes
+- 2026-07-20 16:47 — Align card padding
