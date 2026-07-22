@@ -275,3 +275,4 @@
 - 2026-07-21 17:26 — Adjust spacing in the layout
 - 2026-07-22 10:14 — Note today's progress
 - 2026-07-22 11:17 — Record a follow-up in the notes
+- 2026-07-22 19:12 — Clarify the error text
