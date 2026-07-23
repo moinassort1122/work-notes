@@ -277,3 +277,4 @@
 - 2026-07-22 11:17 — Record a follow-up in the notes
 - 2026-07-22 19:12 — Clarify the error text
 - 2026-07-23 10:04 — Refresh the dashboard notes
+- 2026-07-23 15:28 — Improve loading state copy
