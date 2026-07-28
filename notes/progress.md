@@ -279,3 +279,4 @@
 - 2026-07-23 10:04 — Refresh the dashboard notes
 - 2026-07-23 15:28 — Improve loading state copy
 - 2026-07-24 13:00 — Update the status labels
+- 2026-07-28 11:27 — Simplify the header wording
