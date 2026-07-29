@@ -282,3 +282,4 @@
 - 2026-07-28 11:27 — Simplify the header wording
 - 2026-07-28 18:34 — Clean up unused styles
 - 2026-07-28 19:44 — Refine the main screen copy
+- 2026-07-29 09:53 — Polish button labels
