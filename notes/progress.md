@@ -289,3 +289,4 @@
 - 2026-07-31 15:58 — Refresh the dashboard notes
 - 2026-08-01 11:57 — Align card padding
 - 2026-08-06 18:21 — Improve loading state copy
+- 2026-08-06 19:52 — Update settings descriptions
