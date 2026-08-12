@@ -293,3 +293,4 @@
 - 2026-08-08 18:11 — Adjust the mobile spacing
 - 2026-08-10 16:45 — Clarify the error text
 - 2026-08-12 13:35 — Clarify form helper text
+- 2026-08-12 14:30 — Refine the main screen copy
