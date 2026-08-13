@@ -296,3 +296,4 @@
 - 2026-08-12 14:30 — Refine the main screen copy
 - 2026-08-12 16:16 — Fix a small layout overlap
 - 2026-08-12 19:58 — Update settings descriptions
+- 2026-08-13 11:50 — Refresh the dashboard notes
