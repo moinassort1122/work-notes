@@ -298,3 +298,4 @@
 - 2026-08-12 19:58 — Update settings descriptions
 - 2026-08-13 11:50 — Refresh the dashboard notes
 - 2026-08-13 13:17 — Review the latest screen changes
+- 2026-08-13 17:26 — Clean up unused styles
