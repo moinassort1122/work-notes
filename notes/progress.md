@@ -301,3 +301,4 @@
 - 2026-08-13 17:26 — Clean up unused styles
 - 2026-08-17 09:18 — Update the status labels
 - 2026-08-17 14:33 — Clean up unused styles
+- 2026-08-17 18:26 — Tidy list empty states
