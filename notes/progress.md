@@ -303,3 +303,4 @@
 - 2026-08-17 14:33 — Clean up unused styles
 - 2026-08-17 18:26 — Tidy list empty states
 - 2026-08-19 14:35 — Tighten validation messages
+- 2026-08-26 13:33 — Polish button labels
