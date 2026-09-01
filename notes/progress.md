@@ -308,3 +308,4 @@
 - 2026-08-31 16:18 — Fix a small layout overlap
 - 2026-08-31 18:05 — Refine the main screen copy
 - 2026-09-01 11:24 — Refresh the dashboard notes
+- 2026-09-01 15:12 — Clarify the error text
