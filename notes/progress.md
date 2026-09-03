@@ -315,3 +315,4 @@
 - 2026-09-02 16:29 — Refine the main screen copy
 - 2026-09-02 19:10 — Refresh the dashboard notes
 - 2026-09-03 13:56 — Refresh the dashboard notes
+- 2026-09-03 15:35 — Polish button labels
