@@ -320,3 +320,4 @@
 - 2026-09-03 19:13 — Adjust spacing in the layout
 - 2026-09-08 11:00 — Align card padding
 - 2026-09-08 12:01 — Refine the main screen copy
+- 2026-09-09 11:57 — Simplify the header wording
