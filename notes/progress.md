@@ -322,3 +322,4 @@
 - 2026-09-08 12:01 — Refine the main screen copy
 - 2026-09-09 11:57 — Simplify the header wording
 - 2026-09-09 20:15 — Clarify form helper text
+- 2026-09-14 09:52 — Update settings descriptions
