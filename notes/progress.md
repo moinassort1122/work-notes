@@ -327,3 +327,4 @@
 - 2026-09-15 09:12 — Simplify the header wording
 - 2026-09-15 13:57 — Update project notes
 - 2026-09-15 17:11 — Update the status labels
+- 2026-09-15 19:25 — Polish button labels
