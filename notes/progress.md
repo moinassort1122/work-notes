@@ -324,3 +324,4 @@
 - 2026-09-09 20:15 — Clarify form helper text
 - 2026-09-14 09:52 — Update settings descriptions
 - 2026-09-14 16:19 — Clarify the error text
+- 2026-09-15 09:12 — Simplify the header wording
