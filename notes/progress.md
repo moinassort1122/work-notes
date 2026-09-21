@@ -334,3 +334,4 @@
 - 2026-09-17 14:52 — Tighten validation messages
 - 2026-09-17 19:07 — Refresh the dashboard notes
 - 2026-09-18 09:28 — Update the status labels
+- 2026-09-21 09:44 — Update project notes
