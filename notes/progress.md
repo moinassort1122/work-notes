@@ -339,3 +339,4 @@
 - 2026-09-22 09:40 — Adjust the mobile spacing
 - 2026-09-22 11:53 — Refresh the dashboard notes
 - 2026-09-22 15:13 — Simplify the header wording
+- 2026-09-22 19:25 — Clarify form helper text
