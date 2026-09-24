@@ -341,3 +341,4 @@
 - 2026-09-22 15:13 — Simplify the header wording
 - 2026-09-22 19:25 — Clarify form helper text
 - 2026-09-24 14:23 — Adjust spacing in the layout
+- 2026-09-24 18:49 — Adjust the mobile spacing
