@@ -342,3 +342,4 @@
 - 2026-09-22 19:25 — Clarify form helper text
 - 2026-09-24 14:23 — Adjust spacing in the layout
 - 2026-09-24 18:49 — Adjust the mobile spacing
+- 2026-09-25 16:42 — Update project notes
