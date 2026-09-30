@@ -347,3 +347,4 @@
 - 2026-09-29 13:04 — Adjust the mobile spacing
 - 2026-09-29 14:13 — Adjust spacing in the layout
 - 2026-09-30 09:23 — Adjust the mobile spacing
+- 2026-09-30 20:08 — Clarify form helper text
