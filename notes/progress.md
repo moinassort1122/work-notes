@@ -349,3 +349,4 @@
 - 2026-09-30 09:23 — Adjust the mobile spacing
 - 2026-09-30 20:08 — Clarify form helper text
 - 2026-10-02 09:54 — Note today's progress
+- 2026-10-02 16:01 — Clarify form helper text
