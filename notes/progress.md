@@ -352,3 +352,4 @@
 - 2026-10-02 16:01 — Clarify form helper text
 - 2026-10-06 12:30 — Refine the main screen copy
 - 2026-10-06 17:34 — Align card padding
+- 2026-10-07 11:33 — Adjust the mobile spacing
