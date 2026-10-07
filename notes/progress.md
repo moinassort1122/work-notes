@@ -353,3 +353,4 @@
 - 2026-10-06 12:30 — Refine the main screen copy
 - 2026-10-06 17:34 — Align card padding
 - 2026-10-07 11:33 — Adjust the mobile spacing
+- 2026-10-07 13:38 — Fix a small layout overlap
