@@ -357,3 +357,4 @@
 - 2026-10-07 15:38 — Refresh the dashboard notes
 - 2026-10-07 16:59 — Polish button labels
 - 2026-10-08 09:26 — Update the status labels
+- 2026-10-08 15:27 — Align card padding
