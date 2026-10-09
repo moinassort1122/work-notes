@@ -358,3 +358,4 @@
 - 2026-10-07 16:59 — Polish button labels
 - 2026-10-08 09:26 — Update the status labels
 - 2026-10-08 15:27 — Align card padding
+- 2026-10-09 13:09 — Clarify the error text
