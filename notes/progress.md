@@ -360,3 +360,4 @@
 - 2026-10-08 15:27 — Align card padding
 - 2026-10-09 13:09 — Clarify the error text
 - 2026-10-12 10:15 — Tidy list empty states
+- 2026-10-12 16:08 — Update the status labels
