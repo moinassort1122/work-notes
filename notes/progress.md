@@ -359,3 +359,4 @@
 - 2026-10-08 09:26 — Update the status labels
 - 2026-10-08 15:27 — Align card padding
 - 2026-10-09 13:09 — Clarify the error text
+- 2026-10-12 10:15 — Tidy list empty states
