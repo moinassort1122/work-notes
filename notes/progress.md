@@ -362,3 +362,4 @@
 - 2026-10-12 10:15 — Tidy list empty states
 - 2026-10-12 16:08 — Update the status labels
 - 2026-10-12 17:09 — Record a follow-up in the notes
+- 2026-10-13 11:32 — Clean up unused styles
