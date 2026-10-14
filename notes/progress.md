@@ -367,3 +367,4 @@
 - 2026-10-14 09:44 — Adjust the mobile spacing
 - 2026-10-14 15:02 — Fix a small layout overlap
 - 2026-10-14 17:06 — Update settings descriptions
+- 2026-10-14 22:02 — Polish button labels
