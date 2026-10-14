@@ -365,3 +365,4 @@
 - 2026-10-13 11:32 — Clean up unused styles
 - 2026-10-13 13:16 — Record a follow-up in the notes
 - 2026-10-14 09:44 — Adjust the mobile spacing
+- 2026-10-14 15:02 — Fix a small layout overlap
