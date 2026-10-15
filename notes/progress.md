@@ -368,3 +368,4 @@
 - 2026-10-14 15:02 — Fix a small layout overlap
 - 2026-10-14 17:06 — Update settings descriptions
 - 2026-10-14 22:02 — Polish button labels
+- 2026-10-15 16:11 — Refine the main screen copy
