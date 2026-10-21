@@ -376,3 +376,4 @@
 - 2026-10-20 12:06 — Improve loading state copy
 - 2026-10-20 14:27 — Refresh the dashboard notes
 - 2026-10-20 15:58 — Tighten validation messages
+- 2026-10-21 11:07 — Record a follow-up in the notes
