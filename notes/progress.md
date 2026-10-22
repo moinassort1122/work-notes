@@ -381,3 +381,4 @@
 - 2026-10-22 12:41 — Clarify form helper text
 - 2026-10-22 14:41 — Update settings descriptions
 - 2026-10-22 15:45 — Adjust the mobile spacing
+- 2026-10-22 16:58 — Tidy list empty states
