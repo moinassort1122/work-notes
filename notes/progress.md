@@ -378,3 +378,4 @@
 - 2026-10-20 15:58 — Tighten validation messages
 - 2026-10-21 11:07 — Record a follow-up in the notes
 - 2026-10-21 17:40 — Clarify the error text
+- 2026-10-22 12:41 — Clarify form helper text
