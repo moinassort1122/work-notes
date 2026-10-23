@@ -382,3 +382,4 @@
 - 2026-10-22 14:41 — Update settings descriptions
 - 2026-10-22 15:45 — Adjust the mobile spacing
 - 2026-10-22 16:58 — Tidy list empty states
+- 2026-10-23 09:26 — Adjust spacing in the layout
