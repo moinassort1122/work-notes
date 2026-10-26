@@ -383,3 +383,4 @@
 - 2026-10-22 15:45 — Adjust the mobile spacing
 - 2026-10-22 16:58 — Tidy list empty states
 - 2026-10-23 09:26 — Adjust spacing in the layout
+- 2026-10-26 11:57 — Align card padding
