@@ -386,3 +386,4 @@
 - 2026-10-26 11:57 — Align card padding
 - 2026-10-26 17:45 — Clean up unused styles
 - 2026-10-27 13:03 — Clean up unused styles
+- 2026-10-27 14:47 — Fix a small layout overlap
