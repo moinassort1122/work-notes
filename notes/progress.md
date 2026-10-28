@@ -388,3 +388,4 @@
 - 2026-10-27 13:03 — Clean up unused styles
 - 2026-10-27 14:47 — Fix a small layout overlap
 - 2026-10-28 17:43 — Adjust the mobile spacing
+- 2026-10-28 20:07 — Update settings descriptions
