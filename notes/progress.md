@@ -389,3 +389,4 @@
 - 2026-10-27 14:47 — Fix a small layout overlap
 - 2026-10-28 17:43 — Adjust the mobile spacing
 - 2026-10-28 20:07 — Update settings descriptions
+- 2026-10-29 09:12 — Tidy list empty states
