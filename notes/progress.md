@@ -391,3 +391,4 @@
 - 2026-10-28 20:07 — Update settings descriptions
 - 2026-10-29 09:12 — Tidy list empty states
 - 2026-10-29 10:29 — Record a follow-up in the notes
+- 2026-10-29 17:00 — Update settings descriptions
