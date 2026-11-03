@@ -393,3 +393,4 @@
 - 2026-10-29 10:29 — Record a follow-up in the notes
 - 2026-10-29 17:00 — Update settings descriptions
 - 2026-10-30 13:56 — Tighten validation messages
+- 2026-11-03 16:30 — Simplify the header wording
