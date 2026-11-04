@@ -395,3 +395,4 @@
 - 2026-10-30 13:56 — Tighten validation messages
 - 2026-11-03 16:30 — Simplify the header wording
 - 2026-11-03 17:28 — Review the latest screen changes
+- 2026-11-04 14:58 — Clarify form helper text
