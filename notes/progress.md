@@ -400,3 +400,4 @@
 - 2026-11-05 20:06 — Review the latest screen changes
 - 2026-11-05 22:09 — Tidy list empty states
 - 2026-11-06 15:05 — Record a follow-up in the notes
+- 2026-11-10 14:16 — Clean up unused styles
