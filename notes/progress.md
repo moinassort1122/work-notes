@@ -402,3 +402,4 @@
 - 2026-11-06 15:05 — Record a follow-up in the notes
 - 2026-11-10 14:16 — Clean up unused styles
 - 2026-11-11 10:48 — Improve loading state copy
+- 2026-11-11 15:49 — Clarify the error text
