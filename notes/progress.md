@@ -404,3 +404,4 @@
 - 2026-11-11 10:48 — Improve loading state copy
 - 2026-11-11 15:49 — Clarify the error text
 - 2026-11-11 17:26 — Tighten validation messages
+- 2026-11-12 11:46 — Improve loading state copy
