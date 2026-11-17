@@ -407,3 +407,4 @@
 - 2026-11-12 11:46 — Improve loading state copy
 - 2026-11-13 13:20 — Refresh the dashboard notes
 - 2026-11-13 14:36 — Tidy list empty states
+- 2026-11-17 09:15 — Adjust the mobile spacing
