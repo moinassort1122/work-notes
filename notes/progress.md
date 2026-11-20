@@ -410,3 +410,4 @@
 - 2026-11-17 09:15 — Adjust the mobile spacing
 - 2026-11-18 09:53 — Note today's progress
 - 2026-11-18 11:22 — Clean up unused styles
+- 2026-11-20 09:55 — Improve loading state copy
