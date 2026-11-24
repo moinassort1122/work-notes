@@ -414,3 +414,4 @@
 - 2026-11-23 17:20 — Polish button labels
 - 2026-11-24 10:40 — Fix a small layout overlap
 - 2026-11-24 14:04 — Adjust spacing in the layout
+- 2026-11-24 15:30 — Refine the main screen copy
