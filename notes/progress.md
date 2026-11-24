@@ -412,3 +412,4 @@
 - 2026-11-18 11:22 — Clean up unused styles
 - 2026-11-20 09:55 — Improve loading state copy
 - 2026-11-23 17:20 — Polish button labels
+- 2026-11-24 10:40 — Fix a small layout overlap
