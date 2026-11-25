@@ -417,3 +417,4 @@
 - 2026-11-24 15:30 — Refine the main screen copy
 - 2026-11-25 10:34 — Update the status labels
 - 2026-11-25 13:54 — Note today's progress
+- 2026-11-25 16:58 — Fix a small layout overlap
